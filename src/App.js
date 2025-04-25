@@ -14,7 +14,7 @@ function App() {
 const AppRoutes = () => {
   return (
     <Routes>
-      <Route path="/Jeedie/" element={<Home />} />
+      <Route path="/" element={<Home />} />
     </Routes>
   );
 };
