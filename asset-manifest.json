@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jeedie/static/css/main.d31b0719.css",
-    "main.js": "/Jeedie/static/js/main.aa721bb8.js",
+    "main.js": "/Jeedie/static/js/main.06dfe5b3.js",
     "static/js/453.51ec90ab.chunk.js": "/Jeedie/static/js/453.51ec90ab.chunk.js",
     "static/media/class-prtflo.jpg": "/Jeedie/static/media/class-prtflo.22e471b2fe22840c8e90.jpg",
     "static/media/contact-back.svg": "/Jeedie/static/media/contact-back.268431ca12022d08d915df13b662ab7c.svg",
@@ -10,11 +10,11 @@
     "static/media/folder-open.svg": "/Jeedie/static/media/folder-open.3f8430439ce05c3b311b28c5a6f94d4e.svg",
     "static/media/folder.svg": "/Jeedie/static/media/folder.10767809a1a8d7edd639598c6224c3bf.svg",
     "main.d31b0719.css.map": "/Jeedie/static/css/main.d31b0719.css.map",
-    "main.aa721bb8.js.map": "/Jeedie/static/js/main.aa721bb8.js.map",
+    "main.06dfe5b3.js.map": "/Jeedie/static/js/main.06dfe5b3.js.map",
     "453.51ec90ab.chunk.js.map": "/Jeedie/static/js/453.51ec90ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d31b0719.css",
-    "static/js/main.aa721bb8.js"
+    "static/js/main.06dfe5b3.js"
   ]
 }
